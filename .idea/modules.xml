@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CookieAutoRestart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CookieAutoRestart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HolyAutoRestart.iml" filepath="$PROJECT_DIR$/.idea/modules/HolyAutoRestart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HolyAutoRestart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/HolyAutoRestart.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HolyAutoRestart.test.iml" filepath="$PROJECT_DIR$/.idea/modules/HolyAutoRestart.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.kazi.CookieAutoRestart.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.kazi.CookieAutoRestart.main.iml" />
+    </modules>
+  </component>
+</project>
