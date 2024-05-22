@@ -1,0 +1,32 @@
+messages:
+
+  prefix: "&#FF8400Cookie&fAutoRestart"
+  no-permission: "%prefix% &8| &cНет прав!"
+  reload: "%prefix% &8| &aУспешно!"
+
+  chat:
+    enable: true
+    time:
+      - ""
+      - "%prefix%"
+      - "&fПерезагрузка через &6%time%&f!"
+      - ""
+    start:
+      - ""
+      - "%prefix%"
+      - "&fСервер уходит на &cперезагрузку&f!"
+      - ""
+
+  title:
+    enable: true
+    time:
+      title: "%prefix%"
+      subtitle: "&fПерезагрузка через &6%time%&f!"
+    start:
+      title: "%prefix%"
+      subtitle: "&fСервер уходит на &cперезагрузку&f!"
+
+  action-bar: # Не поддерживает Hex [ временно ]
+    enable: true
+    time: "&6Cookie&fAutoRestart &8| &fПерезагрузка через &6%time%&f!"
+    start: "&6Cookie&fAutoRestart &8| &fСервер уходит на &cперезагрузку&f!"
