@@ -1,0 +1,12 @@
+main: dev.kazi.cookieautorestart.Main
+name: CookieAutoRestart
+
+author: KaziDev
+website: https://kazi.fun/
+
+version: 1.0-BETA
+api-version: 1.16
+
+commands:
+  cookieautorestart:
+    aliases: [ autorestart, har, ar, arestart ]
