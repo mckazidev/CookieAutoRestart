@@ -1,0 +1,23 @@
+discord:
+  webhook:
+    enable: false
+    URL: "https://discord.com/api/webhooks/WEBHOOK_URL"
+  settings:
+    channel-id:
+      - 123456789
+      - 1234567890
+
+messages:
+  embed: true
+  enable:
+    - ""
+    - "А вы знали что"
+    - "Сервер был успешно перезагружен!"
+    - "Заходи играть :)"
+    - ""
+  disable:
+    - ""
+    - "А вы знали что"
+    - "Сервер на перезагрузке!"
+    - "Играть нельзя :("
+    - ""
